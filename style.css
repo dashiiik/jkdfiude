@@ -1,0 +1,14 @@
+body{
+    background-color: gold;
+}
+header{
+    background-color: goldenrod;
+    text-align: center;
+    color: darkgoldenrod;
+    background-image: linear-gradient(goldenrod,white,red)
+}
+main{
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+}
